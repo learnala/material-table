@@ -6,7 +6,7 @@ import TableRow from "@mui/material/TableRow";
 import TableCell from "@mui/material/TableCell";
 import TableSortLabel from "@mui/material/TableSortLabel";
 import Checkbox from "@mui/material/Checkbox";
-import withStyles from "@mui/styles";
+import { withStyles } from "@mui/styles";
 import { Draggable } from "react-beautiful-dnd";
 import { Tooltip } from "@mui/material";
 import * as CommonValues from "../utils/common-values";

@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import IconButton from "@mui/material/IconButton";
-import withStyles from "@mui/styles";
+import { withStyles } from "@mui/styles";
 import Tooltip from "@mui/material/Tooltip";
 import Hidden from "@mui/material/Hidden";
 import Button from "@mui/material/Button";
