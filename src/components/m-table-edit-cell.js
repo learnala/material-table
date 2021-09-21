@@ -3,7 +3,7 @@ import * as React from "react";
 import PropTypes from "prop-types";
 import TableCell from "@mui/material/TableCell";
 import CircularProgress from "@mui/material/CircularProgress";
-import { fade } from "@mui/material/styles/colorManipulator";
+import { fade } from "@mui/material/styles";
 import withTheme from "@mui/material/styles/withTheme";
 import { MTable } from "..";
 /* eslint-enable no-unused-vars */

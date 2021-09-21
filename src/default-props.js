@@ -5,7 +5,7 @@ import Paper from "@mui/material/Paper";
 import TablePagination from "@mui/material/TablePagination";
 import * as MComponents from "./components";
 import PropTypes from "prop-types";
-import { fade } from "@mui/material/styles/colorManipulator";
+import { fade } from "@mui/material/styles";
 
 const OverlayLoading = (props) => (
   <div

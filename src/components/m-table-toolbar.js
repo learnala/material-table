@@ -10,7 +10,7 @@ import Toolbar from "@mui/material/Toolbar";
 import Tooltip from "@mui/material/Tooltip";
 import Typography from "@mui/material/Typography";
 import withStyles from "@mui/styles";
-import { lighten } from "@mui/material/styles/colorManipulator";
+import { lighten } from "@mui/material/styles";
 import classNames from "classnames";
 import { CsvBuilder } from "filefy";
 import PropTypes, { oneOf } from "prop-types";
