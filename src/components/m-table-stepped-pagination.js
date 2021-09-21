@@ -1,9 +1,9 @@
 /* eslint-disable no-unused-vars */
-import IconButton from "@material-ui/core/IconButton";
-import withStyles from "@material-ui/core/styles/withStyles";
-import Tooltip from "@material-ui/core/Tooltip";
-import Hidden from "@material-ui/core/Hidden";
-import Button from "@material-ui/core/Button";
+import IconButton from "@mui/material/IconButton";
+import withStyles from "@mui/styles";
+import Tooltip from "@mui/material/Tooltip";
+import Hidden from "@mui/material/Hidden";
+import Button from "@mui/material/Button";
 import PropTypes from "prop-types";
 import * as React from "react";
 /* eslint-enable no-unused-vars */
